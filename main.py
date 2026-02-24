@@ -1,16 +1,4 @@
-"""
-TeraBox Uploader CLI: main.py
-Python CLI tool to make uploads to your Terabox cloud from any Linux or Windows environment
-without having to use the website.
 
-This program is provided as-is, without any warranty.
-This program is not affiliated with Terabox in any way.
-This program is licensed under the MIT License.
-
-Developed by Gonçalo M. (@dnigamer in GitHub).
-For more information, please visit https://github.com/dnigamer/TeraboxUploaderCLI
-If you find any bugs, please open an issue in the GitHub repository mentioned in the link above.
-"""
 
 import fnmatch
 import math
